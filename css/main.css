@@ -203,7 +203,7 @@ header h1{
 .blog .card .sc{
     position: relative ;
     top: -15px;
-    left: 140px;
+    left: 150px;
     transform: translateX(50%);
 
 }
