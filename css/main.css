@@ -71,7 +71,7 @@ header h1{
     font-weight: 700;
 }
 
-.services .titel span{
+/* .services .titel span{
 
     position: relative;
 }
@@ -87,7 +87,7 @@ header h1{
     bottom:-20px;
     left:170px;
 
-}
+} */
 
 .services .item .icon span{
 
@@ -142,7 +142,7 @@ header h1{
     font-weight: 700;
 }
 
-.Portfolio .titel span{
+/* .Portfolio .titel span{
     position: relative;
 }
 
@@ -155,7 +155,7 @@ header h1{
     bottom:-20px;
     left:170px;
 
-}
+} */
 
 .Portfolio .icon{
     font-size: 60px;
